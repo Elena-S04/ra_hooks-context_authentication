@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/lylbibu1oww52q52?svg=true)](https://ci.appveyor.com/project/Elena-S04/ra-hooks-context-authentication)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
