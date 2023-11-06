@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra_hooks-context_authentication/static/css/main.3fd6d85b.css",
+    "main.js": "/ra_hooks-context_authentication/static/js/main.d20ca21c.js",
+    "static/js/787.8d4645c0.chunk.js": "/ra_hooks-context_authentication/static/js/787.8d4645c0.chunk.js",
+    "index.html": "/ra_hooks-context_authentication/index.html",
+    "main.3fd6d85b.css.map": "/ra_hooks-context_authentication/static/css/main.3fd6d85b.css.map",
+    "main.d20ca21c.js.map": "/ra_hooks-context_authentication/static/js/main.d20ca21c.js.map",
+    "787.8d4645c0.chunk.js.map": "/ra_hooks-context_authentication/static/js/787.8d4645c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd6d85b.css",
+    "static/js/main.d20ca21c.js"
+  ]
+}
