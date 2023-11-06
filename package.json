@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "repository": "https://github.com/Elena-S04/ra_hooks-context_authentication.git",
-  "homepage": "",
+  "homepage": "https://elena-s04.github.io/ra_hooks-context_authentication",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
